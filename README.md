@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-FFCA28?style=flat-square&logo=Next.js&logoColor=white"/>
 
 
 
