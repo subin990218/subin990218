@@ -1,5 +1,4 @@
-### Hi there 👋 안녕하세요 오수빈입니다.
-
+### Hi there 👋 
 <!--
 
 Here are some ideas to get you started:
