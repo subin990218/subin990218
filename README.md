@@ -1,4 +1,5 @@
-### Hi there 👋 
+### 👋 Introduce
+안녕하세요, 프론트엔드 개발자 오수빈입니다.
 <!--
 
 Here are some ideas to get you started:
@@ -13,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning ...
+
+🛠 Tech Stack
 <img src="https://img.shields.io/badge/Next.js-FFCA28?style=flat-square&logo=Next.js&logoColor=white"/>
-
-
-
+<img src="https://img.shields.io/badge/React.js-FFCA28?style=flat-square&logo=React&logoColor=white"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
