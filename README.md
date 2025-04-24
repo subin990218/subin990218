@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 🌱 I’m currently learning ...
+-->
 
 🛠 Tech Stack
+
 <img src="https://img.shields.io/badge/Next.js-FFCA28?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-FFCA28?style=flat-square&logo=React&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React.js-FFCA28?style=flat-square&logo=React&logoColor=white"/>
+https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
