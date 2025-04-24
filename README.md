@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 -->
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 <br>
 <br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
